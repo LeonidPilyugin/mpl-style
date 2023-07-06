@@ -363,7 +363,7 @@ lines.linewidth: 1.0               # line width in points
 ## https://matplotlib.org/stable/api/axes_api.html#module-matplotlib.axes
 #axes.facecolor:     white   # axes background color
 #axes.edgecolor:     black   # axes edge color
-axes.linewidth:     0.7     # edge line width
+axes.linewidth:     1.0     # edge line width
 axes.grid:          True   # display grid or not
 #axes.grid.axis:     both    # which axis the grid should apply to
 #axes.grid.which:    major   # grid lines at {major, minor, both} ticks
@@ -475,7 +475,7 @@ axes.prop_cycle: cycler('color', 'bgrcmyk')
 #xtick.labelbottom:   True    # draw label on the bottom
 #xtick.major.size:    3.5     # major tick size in points
 #xtick.minor.size:    2       # minor tick size in points
-#xtick.major.width:   0.8     # major tick width in points
+xtick.major.width:   1.0     # major tick width in points
 #xtick.minor.width:   0.6     # minor tick width in points
 #xtick.major.pad:     3.5     # distance to major tick label in points
 #xtick.minor.pad:     3.4     # distance to the minor tick label in points
