@@ -113,7 +113,7 @@
 ## ***************************************************************************
 ## See https://matplotlib.org/stable/api/artist_api.html#module-matplotlib.lines
 ## for more information on line properties.
-lines.linewidth: 1.0               # line width in points
+lines.linewidth: 2.0               # line width in points
 #lines.linestyle: -                 # solid line
 #lines.color:     C0                # has no affect on plot(); see axes.prop_cycle
 #lines.marker:          None        # the default marker
@@ -386,7 +386,7 @@ axes.grid:          True   # display grid or not
 #axes.formatter.limits: -5, 6  # use scientific notation if log10
                                # of the axis range is smaller than the
                                # first or larger than the second
-#axes.formatter.use_locale: False  # When True, format tick labels
+#axes.formatter.use_locale: True  # When True, format tick labels
                                    # according to the user's locale.
                                    # For example, use ',' as a decimal
                                    # separator in the fr_FR locale.
