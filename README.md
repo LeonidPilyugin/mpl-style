@@ -2,7 +2,7 @@
 
 To use add next line to your plotting script:
 ```
-plt.style.use("path/to/simple.mplstyle")
+plt.style.use("https://raw.githubusercontent.com/LeonidPilyugin/mpl-style/refs/heads/main/simple.mplstyle")
 ```
 
 Example:
