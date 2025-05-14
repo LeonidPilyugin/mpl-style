@@ -557,8 +557,8 @@ legend.fontsize:      small
 #figure.titleweight: normal    # weight of the figure title
 #figure.labelsize:   large     # size of the figure label (``Figure.sup[x|y]label()``)
 #figure.labelweight: normal    # weight of the figure label
-figure.figsize:     8, 6  # figure size in inches
-figure.dpi:         400       # figure dots per inch
+figure.figsize:     4, 3  # figure size in inches
+figure.dpi:         300       # figure dots per inch
 #figure.facecolor:   white     # figure face color
 #figure.edgecolor:   white     # figure edge color
 #figure.frameon:     True      # enable figure frame
